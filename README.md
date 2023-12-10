@@ -1,2 +1,3 @@
 # Brain-Tumor-Detection-using-pretrained-CNN
 This is an end to end code for anyone who wants to study multiclass classification using pretrained CNN.
+There has been alot of research going on to develop an automatic system which can classifies different types of Brain Tumor . With the advancement in computervision and AI , it was possible .The model is using pretrained Mobilenetv3 small to train and test the data.Four types of Brain Tumor has been classified.The dataset used was from Figshare and the model was built using pytorch .By simply changing the path one can use this model for their projects .
